@@ -1,0 +1,3 @@
+module people {
+    exports com;
+}
